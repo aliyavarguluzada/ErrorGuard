@@ -18,6 +18,7 @@ int[] arr = new int[arrayCheck];
 if (check == false)
 {
     Console.WriteLine("you didn't enter a number");
+    return;
 }
 
 
@@ -33,7 +34,7 @@ for (int i = 0; i < arr.Length; i++)
     if (caseIndex == false)
     {
         Console.WriteLine("you didn't enter a number");
-        break;
+        return;
     }
 
     arr[i] = index;
