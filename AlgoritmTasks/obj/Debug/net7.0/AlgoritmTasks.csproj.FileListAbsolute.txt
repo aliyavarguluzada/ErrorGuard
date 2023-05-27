@@ -1,0 +1,15 @@
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\bin\Debug\net7.0\AlgoritmTasks.exe
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\bin\Debug\net7.0\AlgoritmTasks.deps.json
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\bin\Debug\net7.0\AlgoritmTasks.runtimeconfig.json
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\bin\Debug\net7.0\AlgoritmTasks.dll
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\bin\Debug\net7.0\AlgoritmTasks.pdb
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.csproj.AssemblyReference.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.AssemblyInfoInputs.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.AssemblyInfo.cs
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.csproj.CoreCompileInputs.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.dll
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\refint\AlgoritmTasks.dll
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.pdb
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\AlgoritmTasks.genruntimeconfig.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\AlgoritmTasks\AlgoritmTasks\obj\Debug\net7.0\ref\AlgoritmTasks.dll
