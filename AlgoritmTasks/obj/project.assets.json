@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eliya\\OneDrive\\Masaüstü\\C#\\AlgoritmTasks\\AlgoritmTasks\\AlgoritmTasks.csproj",
-      "projectName": "AlgoritmTasks",
-      "projectPath": "C:\\Users\\Eliya\\OneDrive\\Masaüstü\\C#\\AlgoritmTasks\\AlgoritmTasks\\AlgoritmTasks.csproj",
+      "projectUniqueName": "C:\\Users\\Eliya\\OneDrive\\Masaüstü\\C#\\AlgoritmTasks\\AlgoritmTasks\\ErrorGuard.csproj",
+      "projectName": "ErrorGuard",
+      "projectPath": "C:\\Users\\Eliya\\OneDrive\\Masaüstü\\C#\\AlgoritmTasks\\AlgoritmTasks\\ErrorGuard.csproj",
       "packagesPath": "C:\\Users\\Eliya\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Eliya\\OneDrive\\Masaüstü\\C#\\AlgoritmTasks\\AlgoritmTasks\\obj\\",
       "projectStyle": "PackageReference",
