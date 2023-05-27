@@ -1,0 +1,15 @@
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\bin\Debug\net7.0\ErrorGuard.exe
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\bin\Debug\net7.0\ErrorGuard.deps.json
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\bin\Debug\net7.0\ErrorGuard.runtimeconfig.json
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\bin\Debug\net7.0\ErrorGuard.dll
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\bin\Debug\net7.0\ErrorGuard.pdb
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.csproj.AssemblyReference.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.AssemblyInfoInputs.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.AssemblyInfo.cs
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.csproj.CoreCompileInputs.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.dll
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\refint\ErrorGuard.dll
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.pdb
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ErrorGuard.genruntimeconfig.cache
+C:\Users\Eliya\OneDrive\Masaüstü\C#\ErrorGuard\ErrorGuard\obj\Debug\net7.0\ref\ErrorGuard.dll
